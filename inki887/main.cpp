@@ -36,7 +36,7 @@ int main()
 {
     string odg,broj,str;
     int a=0,b=0,c,d=0,x=9,y,loop=0,v=0,i,g=0,r;
-    cout<<"Dali sakas da kodiras ili dekodiras vneseniot string string\n a -kodiraj \n b -dekodiraj"<<endl;
+    cout<<"Dali sakas da go kodiras ili dekodiras vneseniot string\n a -kodiraj \n b -dekodiraj"<<endl;
     while(a==0)
     {
         cin>>odg;
